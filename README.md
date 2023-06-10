@@ -5,11 +5,12 @@ Develop and train a custom object detection model using SSD MobileNet V2 FPNLite
 ![graph](TrainingGraph.jpg)
 <br/>
 <p align="center">
-  <i>Training graph</i>
+  <i>(Training graph)</i>
 </p>
 <br/>
 Citation : <br/>
 <br/>
+
 ```
 @misc{tensorflowmodelgarden2020,
   author = {Hongkun Yu, Chen Chen, Xianzhi Du, Yeqing Li, Abdullah Rashwan, Le Hou, Pengchong Jin, Fan Yang,
