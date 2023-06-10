@@ -4,7 +4,9 @@ Develop and train a custom object detection model using SSD MobileNet V2 FPNLite
 <br/>
 ![graph](TrainingGraph.jpg)
 <br/>
-(Training graph.) <br/>
+<p align="center">
+  <i>Training graph</i>
+</p>
 <br/>
 Citation : <br/>
 <br/>
