@@ -1,0 +1,8 @@
+dist/
+object_detection.egg-info/
+Tensorflow/models/
+Tensorflow/protoc/
+Tensorflow/workspace/images/
+setup.py
+Tensorflow/workspace/annotations/train.record
+Tensorflow/workspace/annotations/test.record

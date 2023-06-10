@@ -1,0 +1,80 @@
+item { 
+	name:'aice_choco_crispy'
+	id:1
+}
+item { 
+	name:'aice_strawberry_crispy'
+	id:2
+}
+item { 
+	name:'aw_kaleng'
+	id:3
+}
+item { 
+	name:'bebelac'
+	id:4
+}
+item { 
+	name:'chiki_balls'
+	id:5
+}
+item { 
+	name:'chitato'
+	id:6
+}
+item { 
+	name:'happytos cornchips'
+	id:7
+}
+item { 
+	name:'indomie goreng'
+	id:8
+}
+item { 
+	name:'kopi kenangan'
+	id:9
+}
+item { 
+	name:'nabati'
+	id:10
+}
+item { 
+	name:'oreo'
+	id:11
+}
+item { 
+	name:'pocari sweat'
+	id:12
+}
+item { 
+	name:'pop mie'
+	id:13
+}
+item { 
+	name:'regal'
+	id:14
+}
+item { 
+	name:'roma'
+	id:15
+}
+item { 
+	name:'selamat'
+	id:16
+}
+item { 
+	name:'slai olai'
+	id:17
+}
+item { 
+	name:'tango chocolate'
+	id:18
+}
+item { 
+	name:'ultramilk'
+	id:19
+}
+item { 
+	name:'yeos'
+	id:20
+}
