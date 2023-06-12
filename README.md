@@ -10,7 +10,7 @@ Develop and train a custom object detection model using **SSD MobileNet V2 FPNLi
 
 ![graph](inference_result_example-1.jpg)
 
-![graph](inference_result_example-1.jpg)<br/>
+![graph](inference_result_example-2.jpg)<br/>
 
 <br/>
 Citation : <br/>
